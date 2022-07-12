@@ -10,12 +10,7 @@
 
 body {
   
-  background-image: url("https://unsplash.com/photos/Kbfydgs3tFA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink");
-    /* Add the blur effect */
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
-  background-position: center;
-  background-repeat: no-repeat;
+  Add the blur effect
   display: flex;
   flex-direction: column;
   align-items: center;
